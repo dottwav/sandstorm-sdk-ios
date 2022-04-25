@@ -1,0 +1,87 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
+// swift-module-flags: -target x86_64-apple-ios10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SandstormSDK
+import AVFoundation
+import Foundation
+import GoogleInteractiveMediaAds
+import NotificationCenter
+@_exported import SandstormSDK
+import Swift
+import ThunderSDK
+import UIKit
+import _Concurrency
+public enum SandstormAdRequestResult : Swift.Equatable {
+  case success
+  case inProgress
+  case failed
+  case alreadyPrepared
+  case invalidKey
+  case invalidLanguage
+  public func hash(into hasher: inout Swift.Hasher)
+  public static func == (a: SandstormSDK.SandstormAdRequestResult, b: SandstormSDK.SandstormAdRequestResult) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public protocol SandstormObserver : AnyObject {
+  func onVastAdsLoaded()
+  func onVastError(_ error: SandstormSDK.SandstormError)
+  func onVastAdsAvabilityExpired()
+  func onVastAdsStarted()
+  func onVastAdPaused()
+  func onVastAdPlayStarted()
+  func onVastAdsEnded()
+}
+public enum SandstormError : Swift.Error, Swift.Equatable {
+  case noAds
+  case networkError
+  case authorizationError
+  case serverError
+  case internalError
+  case playAdError
+  case pauseAdError
+  case unknownError
+  case loadingError
+  case invalidBuilderParams
+  public func hash(into hasher: inout Swift.Hasher)
+  public static func == (a: SandstormSDK.SandstormError, b: SandstormSDK.SandstormError) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class ATSandstormSDK : SandstormSDK.Sandstorm {
+  public static let shared: SandstormSDK.Sandstorm
+  public var isAdAvailable: Swift.Bool {
+    get
+  }
+  public func add(sandstormObserver: SandstormSDK.SandstormObserver)
+  public func add(thunderObserver: ThunderSDK.ThunderObserver)
+  public func remove(sandstormObserver: SandstormSDK.SandstormObserver)
+  public func remove(thunderObserver: ThunderSDK.ThunderObserver)
+  public func removeAllObservers()
+  public func requestForAds(with builder: ThunderSDK.ThunderVastURLBuilder) -> SandstormSDK.SandstormAdRequestResult
+  public func playAd() -> Swift.Bool
+  public func pauseAd() -> Swift.Bool
+  public func clear()
+  public func intialize(with launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?)
+  public func start(with consent: ThunderSDK.AdTonosConsent)
+  public var isStarted: Swift.Bool {
+    get
+  }
+  public func loadLatestConsent() -> ThunderSDK.AdTonosConsent?
+  public func save(consent: ThunderSDK.AdTonosConsent)
+  public func createBuilder() -> ThunderSDK.ThunderVastURLBuilder
+  public func dispose()
+  @objc deinit
+}
+public protocol Sandstorm : ThunderSDK.Thunder {
+  var isAdAvailable: Swift.Bool { get }
+  func add(sandstormObserver: SandstormSDK.SandstormObserver)
+  func remove(sandstormObserver: SandstormSDK.SandstormObserver)
+  func requestForAds(with builder: ThunderSDK.ThunderVastURLBuilder) -> SandstormSDK.SandstormAdRequestResult
+  func playAd() -> Swift.Bool
+  func pauseAd() -> Swift.Bool
+  func clear()
+}
+extension SandstormSDK.SandstormAdRequestResult : Swift.Hashable {}
+extension SandstormSDK.SandstormError : Swift.Hashable {}
