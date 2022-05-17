@@ -63,7 +63,7 @@ public enum SandstormError : Swift.Error, Swift.Equatable {
   public func playAd() -> Swift.Bool
   public func pauseAd() -> Swift.Bool
   public func clear()
-  public func intialize(with launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?)
+  public func initialize(with launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?)
   public func start(with consent: ThunderSDK.AdTonosConsent)
   public var isStarted: Swift.Bool {
     get
