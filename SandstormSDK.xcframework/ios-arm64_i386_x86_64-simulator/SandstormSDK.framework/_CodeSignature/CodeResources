@@ -18,75 +18,75 @@
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		R14BWsVxkShbwR7ec91vMY5nsxQ=
+		nrmx71u4FYHdU80fz/lqqvDjPn4=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		1KivEN6nIOe7d/0GJeSMX9eCUyA=
+		sqmx3bXP1Gu9CV7r4iOp6ma/43M=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kb127TeBrTu5kKbhcChfwa7XU8c=
+		fdICSqf+4zdTbwnlXCX+aSyx/HM=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		R14BWsVxkShbwR7ec91vMY5nsxQ=
+		nrmx71u4FYHdU80fz/lqqvDjPn4=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		1KivEN6nIOe7d/0GJeSMX9eCUyA=
+		sqmx3bXP1Gu9CV7r4iOp6ma/43M=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		kb127TeBrTu5kKbhcChfwa7XU8c=
+		fdICSqf+4zdTbwnlXCX+aSyx/HM=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		1s48fIaPgo7YR0xhyi8py76hI+k=
+		m63YaGL125QkDWz0Xv7/EvcJb2U=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VmY1ptsf/hW55jmLy+lsDLk//Dg=
+		7qBvyg7usU+ZQs7NSqMRYmnS040=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2QMLTzWkb9abGXVBjuQUKI05eeU=
+		FCX5sp4FY5aZhUbEupCZ+tviQGY=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
-		1s48fIaPgo7YR0xhyi8py76hI+k=
+		m63YaGL125QkDWz0Xv7/EvcJb2U=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/i386.swiftinterface</key>
 		<data>
-		VmY1ptsf/hW55jmLy+lsDLk//Dg=
+		7qBvyg7usU+ZQs7NSqMRYmnS040=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		2QMLTzWkb9abGXVBjuQUKI05eeU=
+		FCX5sp4FY5aZhUbEupCZ+tviQGY=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		3Yj5oIacPQenYaLJkQ8b0Hwmvoo=
+		ULR5JPYiSnXS0agqiIKq4TgaWdc=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		BjMiLhIa3RX0w6tqa3Q67FwEuf0=
+		BIrHl1rzTXbMfsqhfOBJJLiSxFk=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Op5wtjCO+xcBKNEhKldGY9Ud3HI=
+		yXALVmPFnaoUldgr+qG45+s2umo=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		3Yj5oIacPQenYaLJkQ8b0Hwmvoo=
+		ULR5JPYiSnXS0agqiIKq4TgaWdc=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		BjMiLhIa3RX0w6tqa3Q67FwEuf0=
+		BIrHl1rzTXbMfsqhfOBJJLiSxFk=
 		</data>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Op5wtjCO+xcBKNEhKldGY9Ud3HI=
+		yXALVmPFnaoUldgr+qG45+s2umo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -121,198 +121,198 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R14BWsVxkShbwR7ec91vMY5nsxQ=
+			nrmx71u4FYHdU80fz/lqqvDjPn4=
 			</data>
 			<key>hash2</key>
 			<data>
-			jHMYQum7xLFyjqFXe+QVC366oIbLeZt635zJJ85S930=
+			BaXfu4n8DKxBMwqIpYTdETfcKWEmz5u25ML7gedvesI=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1KivEN6nIOe7d/0GJeSMX9eCUyA=
+			sqmx3bXP1Gu9CV7r4iOp6ma/43M=
 			</data>
 			<key>hash2</key>
 			<data>
-			KqgyeekGBY4JxDKyvBYtH+s+5ze7IYv5uF/PFk3z07A=
+			JXf7gKTfsPId4kCiOAOF8KuCL0MjuHV+wWN+psRJs8w=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kb127TeBrTu5kKbhcChfwa7XU8c=
+			fdICSqf+4zdTbwnlXCX+aSyx/HM=
 			</data>
 			<key>hash2</key>
 			<data>
-			1FNd8urq6z9kwgRh9MtOh3YF7lf9dWwzc+KQ1nvV0KI=
+			c3G20+rENAxVgRl6ueEZYQuCFLhM+ilkmfno+J3SX2g=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			R14BWsVxkShbwR7ec91vMY5nsxQ=
+			nrmx71u4FYHdU80fz/lqqvDjPn4=
 			</data>
 			<key>hash2</key>
 			<data>
-			jHMYQum7xLFyjqFXe+QVC366oIbLeZt635zJJ85S930=
+			BaXfu4n8DKxBMwqIpYTdETfcKWEmz5u25ML7gedvesI=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1KivEN6nIOe7d/0GJeSMX9eCUyA=
+			sqmx3bXP1Gu9CV7r4iOp6ma/43M=
 			</data>
 			<key>hash2</key>
 			<data>
-			KqgyeekGBY4JxDKyvBYtH+s+5ze7IYv5uF/PFk3z07A=
+			JXf7gKTfsPId4kCiOAOF8KuCL0MjuHV+wWN+psRJs8w=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kb127TeBrTu5kKbhcChfwa7XU8c=
+			fdICSqf+4zdTbwnlXCX+aSyx/HM=
 			</data>
 			<key>hash2</key>
 			<data>
-			1FNd8urq6z9kwgRh9MtOh3YF7lf9dWwzc+KQ1nvV0KI=
+			c3G20+rENAxVgRl6ueEZYQuCFLhM+ilkmfno+J3SX2g=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1s48fIaPgo7YR0xhyi8py76hI+k=
+			m63YaGL125QkDWz0Xv7/EvcJb2U=
 			</data>
 			<key>hash2</key>
 			<data>
-			T1A0vCJi/NMLIFdRf8sLeSKF25SENA5ytlqOQR1geNM=
+			NSNRl9kfgGk0HRo815ouFlO9WvUAcus/asT7N74jly8=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VmY1ptsf/hW55jmLy+lsDLk//Dg=
+			7qBvyg7usU+ZQs7NSqMRYmnS040=
 			</data>
 			<key>hash2</key>
 			<data>
-			irAphzdqejt+j4Srzz11T6apWlOurefSoX1YmQfdNVs=
+			LvPpjdniT0wZQWmjymNb7VxSTBeW5CJ5ITtG0I8o6tc=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2QMLTzWkb9abGXVBjuQUKI05eeU=
+			FCX5sp4FY5aZhUbEupCZ+tviQGY=
 			</data>
 			<key>hash2</key>
 			<data>
-			jkE5mUKlBq29Tx0xiHgP1Tl5Vmmi+tDaWNgi0S6+q34=
+			2DvfZZ/kVqzlzFx1BRp3XQD0MZ36ksN59U8Q9ZetZ/g=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1s48fIaPgo7YR0xhyi8py76hI+k=
+			m63YaGL125QkDWz0Xv7/EvcJb2U=
 			</data>
 			<key>hash2</key>
 			<data>
-			T1A0vCJi/NMLIFdRf8sLeSKF25SENA5ytlqOQR1geNM=
+			NSNRl9kfgGk0HRo815ouFlO9WvUAcus/asT7N74jly8=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/i386.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VmY1ptsf/hW55jmLy+lsDLk//Dg=
+			7qBvyg7usU+ZQs7NSqMRYmnS040=
 			</data>
 			<key>hash2</key>
 			<data>
-			irAphzdqejt+j4Srzz11T6apWlOurefSoX1YmQfdNVs=
+			LvPpjdniT0wZQWmjymNb7VxSTBeW5CJ5ITtG0I8o6tc=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2QMLTzWkb9abGXVBjuQUKI05eeU=
+			FCX5sp4FY5aZhUbEupCZ+tviQGY=
 			</data>
 			<key>hash2</key>
 			<data>
-			jkE5mUKlBq29Tx0xiHgP1Tl5Vmmi+tDaWNgi0S6+q34=
+			2DvfZZ/kVqzlzFx1BRp3XQD0MZ36ksN59U8Q9ZetZ/g=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3Yj5oIacPQenYaLJkQ8b0Hwmvoo=
+			ULR5JPYiSnXS0agqiIKq4TgaWdc=
 			</data>
 			<key>hash2</key>
 			<data>
-			hfy9h/teaQ4pZ4Y+0m8cVPAwN3jp8+lrie0h98EO+WU=
+			qTMrzGzrp4810C3PJEjuvWjoZhgW8vzFDmVhO/qXCEc=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BjMiLhIa3RX0w6tqa3Q67FwEuf0=
+			BIrHl1rzTXbMfsqhfOBJJLiSxFk=
 			</data>
 			<key>hash2</key>
 			<data>
-			KmXW5rTtpxIuoEaOuqaQnk3p4aeRHEFxNw6ZW90PAx0=
+			O2X2Yjc+AypGCJiOMxsWjYk9euGFOahkpEG2tSaYUIM=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Op5wtjCO+xcBKNEhKldGY9Ud3HI=
+			yXALVmPFnaoUldgr+qG45+s2umo=
 			</data>
 			<key>hash2</key>
 			<data>
-			3qOkf17hBeSAtRiNqRjVJuj7Z3q7rxjFfxPxwTA0Tbo=
+			hE9EXUjrT7CQAD5fHT3VUxZkK2rFnYHbvGf0zptrTK0=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3Yj5oIacPQenYaLJkQ8b0Hwmvoo=
+			ULR5JPYiSnXS0agqiIKq4TgaWdc=
 			</data>
 			<key>hash2</key>
 			<data>
-			hfy9h/teaQ4pZ4Y+0m8cVPAwN3jp8+lrie0h98EO+WU=
+			qTMrzGzrp4810C3PJEjuvWjoZhgW8vzFDmVhO/qXCEc=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BjMiLhIa3RX0w6tqa3Q67FwEuf0=
+			BIrHl1rzTXbMfsqhfOBJJLiSxFk=
 			</data>
 			<key>hash2</key>
 			<data>
-			KmXW5rTtpxIuoEaOuqaQnk3p4aeRHEFxNw6ZW90PAx0=
+			O2X2Yjc+AypGCJiOMxsWjYk9euGFOahkpEG2tSaYUIM=
 			</data>
 		</dict>
 		<key>Modules/SandstormSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Op5wtjCO+xcBKNEhKldGY9Ud3HI=
+			yXALVmPFnaoUldgr+qG45+s2umo=
 			</data>
 			<key>hash2</key>
 			<data>
-			3qOkf17hBeSAtRiNqRjVJuj7Z3q7rxjFfxPxwTA0Tbo=
+			hE9EXUjrT7CQAD5fHT3VUxZkK2rFnYHbvGf0zptrTK0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

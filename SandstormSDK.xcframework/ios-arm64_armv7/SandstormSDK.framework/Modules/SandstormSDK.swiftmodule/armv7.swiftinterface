@@ -31,6 +31,7 @@ public protocol SandstormObserver : AnyObject {
   func onVastAdPaused()
   func onVastAdPlayStarted()
   func onVastAdsEnded()
+  func onCleared()
 }
 public enum SandstormError : Swift.Error, Swift.Equatable {
   case noAds
