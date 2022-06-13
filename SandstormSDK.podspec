@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
     s.ios.vendored_frameworks = 'SandstormSDK.xcframework'
 
     s.dependency 'GoogleAds-IMA-iOS-SDK', '3.14.3'
-    s.dependency 'ThunderSDK', '1.0.3'
+    s.dependency 'ThunderSDK', '1.0.5'
 
     s.static_framework = true
     s.user_target_xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }
