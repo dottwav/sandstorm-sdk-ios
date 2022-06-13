@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name              = 'SandstormSDK'
-    s.version           = '1.0.3'
+    s.version           = '1.0.5'
     s.summary           = 'All-you-need SDK for your in-app audio advertisement'
     s.homepage          = 'https://www.adtonos.com'
     s.authors           = { 'Mateusz Wojnar' => 'mateusz.wojnar@siroccomobile.com', 'Aleksander Olszewski' => 'aleksander.olszewski@siroccomobile.com' }
