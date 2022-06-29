@@ -1,4 +1,0 @@
-framework module SandstormLiteSDK {
-  header "SandstormLiteSDK-Swift.h"
-  requires objc
-}
