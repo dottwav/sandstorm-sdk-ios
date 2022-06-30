@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSMotionUsageDescription</key>
+	<string>To determine physical interaction with the device while using the app.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This identifier will be used to deliver personalized ads to you.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>To determine the type of place the user is situated in while interacting with the app.</string>
+</dict>
+</plist>
