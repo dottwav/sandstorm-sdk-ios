@@ -8,14 +8,13 @@ Pod::Spec.new do |s|
     s.license           = { :type => 'Proprietary', :file => 'LICENSE.txt' }
     s.platform          = :ios
     s.source            = { :git => 'https://github.com/adtonos/sandstorm-sdk-ios.git', :tag => s.version }
-    s.swift_version = '5.0'
+    s.swift_version = '5.3'
     s.ios.deployment_target = '10.0'
     s.ios.vendored_frameworks = '**/SandstormSDK/SandstormSDK.xcframework'
 
     s.dependency 'GoogleAds-IMA-iOS-SDK', '3.14.3'
     s.dependency 'ThunderSDK', '1.0.7'
 
-    s.static_framework = true
-    s.user_target_xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }
+    s.static_framework = false
 
 end
