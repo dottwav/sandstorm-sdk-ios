@@ -13,7 +13,6 @@ Pod::Spec.new do |s|
     s.ios.vendored_frameworks = '**/SandstormSDK/SandstormSDK.xcframework'
 
     s.dependency 'GoogleAds-IMA-iOS-SDK', '3.14.3'
-    s.dependency 'ThunderSDK', '1.0.7'
 
     s.static_framework = false
 
